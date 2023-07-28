@@ -1,0 +1,7 @@
+scipy
+pillow
+opencv-python
+numpy
+tensorflow-cpu
+keras-facenet
+
